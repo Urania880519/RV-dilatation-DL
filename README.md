@@ -1,4 +1,4 @@
-![seg](https://github.com/Urania880519/RV-dilatation-DL/assets/95178070/da528f4c-952c-4a1b-a680-f70c94e56974)## About
+## About
 This is the source code of "Automated Recognition of Right Ventricular Dilatation and Prognosis Correlation", implemented with Keras and Tensorflow.
 ## Reproduction and model usage
 1. All pretrained classification models were stored under the "model" folder.
