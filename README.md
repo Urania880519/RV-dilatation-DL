@@ -1,4 +1,4 @@
-## About
+![seg](https://github.com/Urania880519/RV-dilatation-DL/assets/95178070/da528f4c-952c-4a1b-a680-f70c94e56974)## About
 This is the source code of "Automated Recognition of Right Ventricular Dilatation and Prognosis Correlation", implemented with Keras and Tensorflow.
 ## Reproduction and model usage
 1. All pretrained classification models were stored under the "model" folder.
@@ -10,4 +10,5 @@ Application was shown in survival_analysis.ipynb.
 ![160019P48701_31_GradCAM](https://github.com/Urania880519/RV-dilatation-DL/assets/95178070/bda6e07d-e536-4dba-96af-eec731fb12ad)
 ## Segmentation 
 The segmentation results came from our pretrained model. Adding both segmentation channels of left and right ventricle, the input arrays become larger.
-![seg](https://github.com/Urania880519/RV-dilatation-DL/assets/95178070/3459f58a-3095-40eb-9d78-a1523815b1bd)
+We trained the A4C-seg model with these reproduced data, which is visualized and shown as the following gif.
+![seg](https://github.com/Urania880519/RV-dilatation-DL/assets/95178070/3b737541-84e2-4c13-9082-a996e61ecba1)
