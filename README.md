@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/812648004.svg)](https://handle.stage.datacite.org/10.5072/zenodo.155132)
 ## About
 This is the source code of "Automated Recognition of Right Ventricular Dilatation and Prognosis Correlation", implemented with Keras and Tensorflow.
 ## Reproduction and model usage
